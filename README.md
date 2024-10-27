@@ -10,6 +10,10 @@ The **LinkedIn AI Reply** Chrome extension is a demo extension to help users gen
 - **Languages**: React, TypeScript, and Tailwind CSS
 - **Design**: Figma (for reference icons and layout structure)
 
+### Video walkthrough
+
+[![Video](https://drive.google.com/file/d/19G19r_AYTGWcq54FJ_vMnd7RG3vjF3sc/view?usp=sharing)]
+
 ### Extension Functionality
 
 1. Displays an AI icon when a LinkedIn message input field is focused.

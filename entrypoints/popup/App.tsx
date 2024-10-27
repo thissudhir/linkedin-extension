@@ -5,7 +5,11 @@ function App() {
     <>
       <div className="flex flex-col items-center p-[30px] gap-3">
         {" "}
-        <img src="/wxt.svg" alt="" className="h-8 w-8 bg-black rounded-full " />
+        <img
+          src="../../assets/edit.svg"
+          alt=""
+          className="h-8 w-8 bg-black rounded-full "
+        />
         <h1 className="text-lg font-bold">LinkedIn Extension</h1>
       </div>
       <div className="pl-[30px] pr-[30px] ">
